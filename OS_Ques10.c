@@ -84,6 +84,7 @@ int main()
 	}	
 	p[n].b=MAX;
 	system("cls");
+	//textcolor(RED);
 	printf("\n\n\n\n\n\n\n\n\t\t\t\t\t P R O C E S S I N G ");
 	printf("...");
 	sleep(1);
